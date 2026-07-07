@@ -1,0 +1,29 @@
+{
+  "identifier": "campground",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "4.99",
+      "familyShareable": false,
+      "internalID": "camplog_pro",
+      "localizations": [
+        {
+          "description": "Unlimited campsites, an amenities checklist per site, and photo notes.",
+          "displayName": "Campground Log Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "camplog_pro",
+      "referenceName": "Campground Log Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
